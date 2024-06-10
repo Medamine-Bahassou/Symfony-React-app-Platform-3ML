@@ -1,16 +1,17 @@
 # Symfony React app Platform 3ML
 Symfony React app Platform 3ML (عمل) for freelancers
 
-![Gestion-d_Employee-Google-Chrome-2024-06-10-16-48-21](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/050f7b01-71fb-4271-89e8-9868dc2bf02d)
+![crop home](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/bc5b92fb-7969-456e-9a9e-51e769307d88)
 
+<hr>
 ## Features
 
 - Applying
-  ![Gestion-d_Employee-Google-Chrome-2024-06-10-17-00-35](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/15302808-5d19-4437-be21-5be49e8657e4)
+![crop apply](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/601f9a67-e48d-4c88-ba0e-6e3a08270e14)
     
 - CRUD Freelancer
 - Admin Authenticator
-  ![Gestion-d_Employee-Google-Chrome-2024-06-10-16-54-49](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/67faa946-c565-4a3e-8fcf-427a131bbe8b)
+![crop frelance](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/ad40e497-d196-4fd2-b4a0-a7003043e4ae)
 
 ## Technologies Used
 
