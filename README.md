@@ -4,6 +4,7 @@ Symfony React app Platform 3ML (عمل) for freelancers
 ![crop home](https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML/assets/146652318/bc5b92fb-7969-456e-9a9e-51e769307d88)
 
 <hr>
+
 ## Features
 
 - Applying
