@@ -18,3 +18,22 @@ Symfony React app Platform 3ML (عمل) for freelancers
 - **Front-end:** React
 - **Back-end:** Symfony
 - **Database:** MySQL
+
+## Installation
+
+1. Clonez le dépôt :
+    ```
+    git clone https://github.com/Medamine-Bahassou/Symfony-React-app-Platform-3ML.git
+    ```
+2. ```
+    composer install
+    ```
+3. Run Symfony server
+   ```
+    symfony server:start
+    ```
+
+4. Generate Database Schema:
+   ```
+    php bin/console doctrine:schema:update --force
+    ```
